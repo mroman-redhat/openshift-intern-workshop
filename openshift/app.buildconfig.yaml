@@ -11,7 +11,7 @@ spec:
       name: openshift-intern-workshop:latest
   source:
     git:
-      uri: https://github.com/vpavlin/openshift-intern-workshop
+      uri: https://github.com/mroman-redhat/openshift-intern-workshop
     type: Git
   strategy:
     sourceStrategy:
